@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web2-project2/static/css/main.305a58b2.chunk.css",
+    "main.js": "/web2-project2/static/js/main.6c6d770f.chunk.js",
+    "main.js.map": "/web2-project2/static/js/main.6c6d770f.chunk.js.map",
+    "runtime-main.js": "/web2-project2/static/js/runtime-main.070f3504.js",
+    "runtime-main.js.map": "/web2-project2/static/js/runtime-main.070f3504.js.map",
+    "static/js/2.f02dfae1.chunk.js": "/web2-project2/static/js/2.f02dfae1.chunk.js",
+    "static/js/2.f02dfae1.chunk.js.map": "/web2-project2/static/js/2.f02dfae1.chunk.js.map",
+    "index.html": "/web2-project2/index.html",
+    "precache-manifest.30d1c0bfdd6b917721e039f4c7346be6.js": "/web2-project2/precache-manifest.30d1c0bfdd6b917721e039f4c7346be6.js",
+    "service-worker.js": "/web2-project2/service-worker.js",
+    "static/css/main.305a58b2.chunk.css.map": "/web2-project2/static/css/main.305a58b2.chunk.css.map",
+    "static/js/2.f02dfae1.chunk.js.LICENSE.txt": "/web2-project2/static/js/2.f02dfae1.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/web2-project2/static/media/logo.0bcd48e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.070f3504.js",
+    "static/js/2.f02dfae1.chunk.js",
+    "static/css/main.305a58b2.chunk.css",
+    "static/js/main.6c6d770f.chunk.js"
+  ]
+}
